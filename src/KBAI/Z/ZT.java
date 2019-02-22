@@ -1,0 +1,173 @@
+/*
+	Author: Kamalyesh Kannadkar
+	Date: Tue Feb 19 17:24:50 IST 2019
+	package: KBAI.Z
+	class: ZT
+*/
+
+package KBAI.Z;
+
+
+public class ZT {
+
+	public static String getNext(int check){
+		switch(check) {
+			case 19944:
+				return "h";
+			case 24694:
+				return "";
+			case 65475:
+				return "";
+			case 19871:
+				return "e";
+			case 15371:
+				return "ei";
+			case 31251:
+				return "";
+			case 37276:
+				return "i";
+			case 20228:
+				return "i";
+			case 15445:
+				return "i";
+			case 19728:
+				return "hi";
+			case 44678:
+				return "r";
+			case 30811:
+				return "e";
+			case 15519:
+				return "h";
+			case 10837:
+				return "i";
+			case 19987:
+				return "";
+			case 30175:
+				return "";
+			case 24911:
+				return "ir";
+			case 44337:
+				return "";
+			case 24993:
+				return "e";
+			case 20032:
+				return "h";
+			case 25171:
+				return "ei";
+			case 15680:
+				return "ei";
+			case 10961:
+				return "ae";
+			case 20090:
+				return "i";
+			case 51413:
+				return "a";
+			case 30615:
+				return "i";
+			case 82048:
+				return "a";
+			case 37324:
+				return "e";
+			case 19548:
+				return "h";
+			case 15286:
+				return "r";
+			case 59211:
+				return "e";
+			case 49326:
+				return "i";
+			case 24889:
+				return "e";
+			case 37172:
+				return "e";
+			case 50850:
+				return "e";
+			case 36998:
+				return "e";
+			case 11085:
+				return "ht";
+			case 15841:
+				return "e";
+			case 20066:
+				return "h";
+			case 15472:
+				return "r";
+			case 25546:
+				return "e";
+			case 20014:
+				return "e";
+			case 31385:
+				return "";
+			case 51123:
+				return "r";
+			case 31901:
+				return "";
+			case 25800:
+				return "i";
+			case 31964:
+				return "h";
+			case 59188:
+				return "";
+			case 25137:
+				return "r";
+			case 44554:
+				return "";
+			case 25563:
+				return "e";
+			case 25301:
+				return "h";
+			case 51791:
+				return "";
+			case 31233:
+				return "e";
+			case 31985:
+				return "aeio";
+			case 15842:
+				return "ior";
+			case 45164:
+				return "";
+			case 31437:
+				return "e";
+			case 31472:
+				return "r";
+			case 15990:
+				return "e";
+			case 16064:
+				return "c";
+			case 24887:
+				return "t";
+			case 31035:
+				return "o";
+			case 31331:
+				return "e";
+			case 26163:
+				return "e";
+			case 25259:
+				return "r";
+			case 73561:
+				return "e";
+			case 36601:
+				return "y";
+			case 31045:
+				return "i";
+			case 31649:
+				return "e";
+			case 52175:
+				return "";
+			case 31455:
+				return "e";
+			case 38834:
+				return "e";
+			case 44565:
+				return "e";
+			case 20861:
+				return "i";
+			case 32295:
+				return "e";
+			case 11581:
+				return "h";
+			default: return "";
+		}
+	}
+
+}

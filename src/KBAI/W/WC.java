@@ -1,0 +1,165 @@
+/*
+	Author: Kamalyesh Kannadkar
+	Date: Tue Feb 19 17:24:46 IST 2019
+	package: KBAI.W
+	class: WC
+*/
+
+package KBAI.W;
+
+
+public class WC {
+
+	public static String getNext(int check){
+		switch(check) {
+			case 10121:
+				return "k";
+			case 24451:
+				return "o";
+			case 24699:
+				return "lo";
+			case 30465:
+				return "k";
+			case 29536:
+				return "k";
+			case 18836:
+				return "u";
+			case 30289:
+				return "h";
+			case 19033:
+				return "o";
+			case 24200:
+				return "e";
+			case 36129:
+				return "h";
+			case 24530:
+				return "k";
+			case 42225:
+				return "e";
+			case 24723:
+				return "k";
+			case 14809:
+				return "h";
+			case 30445:
+				return "a";
+			case 14846:
+				return "h";
+			case 36029:
+				return "o";
+			case 49433:
+				return "k";
+			case 24136:
+				return "k";
+			case 35962:
+				return "k";
+			case 14637:
+				return "ho";
+			case 37360:
+				return "h";
+			case 14711:
+				return "h";
+			case 23920:
+				return "";
+			case 14859:
+				return "h";
+			case 14323:
+				return "k";
+			case 19179:
+				return "e";
+			case 29565:
+				return "e";
+			case 14619:
+				return "h";
+			case 35654:
+				return "h";
+			case 30156:
+				return "a";
+			case 19327:
+				return "h";
+			case 24496:
+				return "k";
+			case 19409:
+				return "o";
+			case 36955:
+				return "k";
+			case 43997:
+				return "h";
+			case 37273:
+				return "k";
+			case 30060:
+				return "o";
+			case 35247:
+				return "k";
+			case 24312:
+				return "ao";
+			case 43327:
+				return "k";
+			case 10369:
+				return "hklo";
+			case 35401:
+				return "e";
+			case 24556:
+				return "k";
+			case 14835:
+				return "ehio";
+			case 29326:
+				return "e";
+			case 14983:
+				return "h";
+			case 23926:
+				return "r";
+			case 15057:
+				return "hr";
+			case 24182:
+				return "r";
+			case 30275:
+				return "k";
+			case 24922:
+				return "ai";
+			case 42542:
+				return "";
+			case 59524:
+				return "k";
+			case 19356:
+				return "horu";
+			case 36286:
+				return "k";
+			case 29820:
+				return "k";
+			case 35696:
+				return "k";
+			case 29377:
+				return "k";
+			case 35852:
+				return "k";
+			case 29909:
+				return "k";
+			case 30049:
+				return "k";
+			case 30178:
+				return "k";
+			case 37548:
+				return "k";
+			case 14633:
+				return "k";
+			case 30278:
+				return "k";
+			case 36563:
+				return "a";
+			case 14781:
+				return "chk";
+			case 19038:
+				return "h";
+			case 19489:
+				return "h";
+			case 19735:
+				return "h";
+			case 24968:
+				return "k";
+			case 10865:
+				return "l";
+			default: return "";
+		}
+	}
+
+}

@@ -1,0 +1,177 @@
+/*
+	Author: Kamalyesh Kannadkar
+	Date: Tue Feb 19 17:23:03 IST 2019
+	package: KBAI.R
+	class: RK
+*/
+
+package KBAI.R;
+
+
+public class RK {
+
+	public static String getNext(int check){
+		switch(check) {
+			case 14363:
+				return "aeitw";
+			case 37052:
+				return "";
+			case 29210:
+				return "";
+			case 29555:
+				return "e";
+			case 30805:
+				return "";
+			case 10272:
+				return "ei";
+			case 19088:
+				return "i";
+			case 35652:
+				return "l";
+			case 14770:
+				return "eiln";
+			case 29593:
+				return "ei";
+			case 14955:
+				return "o";
+			case 43356:
+				return "";
+			case 50423:
+				return "e";
+			case 36705:
+				return "";
+			case 42395:
+				return "";
+			case 14413:
+				return "";
+			case 24105:
+				return "e";
+			case 19461:
+				return "aei";
+			case 50947:
+				return "";
+			case 36775:
+				return "";
+			case 14487:
+				return "eilo";
+			case 28650:
+				return "";
+			case 36026:
+				return "";
+			case 19453:
+				return "i";
+			case 42801:
+				return "";
+			case 23994:
+				return "";
+			case 35547:
+				return "";
+			case 36963:
+				return "";
+			case 14561:
+				return "eiy";
+			case 35771:
+				return "a";
+			case 19285:
+				return "i";
+			case 35919:
+				return "";
+			case 10396:
+				return "in";
+			case 19339:
+				return "";
+			case 19048:
+				return "e";
+			case 24378:
+				return "aei";
+			case 35632:
+				return "";
+			case 36286:
+				return "";
+			case 23844:
+				return "e";
+			case 14968:
+				return "i";
+			case 30254:
+				return "e";
+			case 24205:
+				return "";
+			case 29857:
+				return "";
+			case 43543:
+				return "e";
+			case 19307:
+				return "e";
+			case 37850:
+				return "e";
+			case 19955:
+				return "ei";
+			case 19418:
+				return "e";
+			case 14611:
+				return "ers";
+			case 10520:
+				return "s";
+			case 35891:
+				return "";
+			case 15018:
+				return "ei";
+			case 15203:
+				return "efiy";
+			case 29353:
+				return "e";
+			case 14797:
+				return "efilrswy";
+			case 36801:
+				return "e";
+			case 37486:
+				return "";
+			case 10706:
+				return "aey";
+			case 30010:
+				return "ei";
+			case 19522:
+				return "i";
+			case 36099:
+				return "";
+			case 15241:
+				return "eiy";
+			case 35861:
+				return "";
+			case 43461:
+				return "";
+			case 44258:
+				return "";
+			case 36745:
+				return "e";
+			case 58374:
+				return "";
+			case 44500:
+				return "";
+			case 15463:
+				return "";
+			case 30675:
+				return "";
+			case 14983:
+				return "ei";
+			case 29830:
+				return "";
+			case 49739:
+				return "e";
+			case 10892:
+				return "h";
+			case 15353:
+				return "i";
+			case 36725:
+				return "l";
+			case 30702:
+				return "e";
+			case 15575:
+				return "";
+			case 31353:
+				return "i";
+			default: return "";
+		}
+	}
+
+}

@@ -1,0 +1,173 @@
+/*
+	Author: Kamalyesh Kannadkar
+	Date: Tue Feb 19 17:20:27 IST 2019
+	package: KBAI.E
+	class: EZ
+*/
+
+package KBAI.E;
+
+
+public class EZ {
+
+	public static String getNext(int check){
+		switch(check) {
+			case 30783:
+				return "aei";
+			case 24833:
+				return "ei";
+			case 30564:
+				return "o";
+			case 37274:
+				return "aei";
+			case 20087:
+				return "o";
+			case 37670:
+				return "e";
+			case 10512:
+				return "e";
+			case 24525:
+				return "e";
+			case 43095:
+				return "e";
+			case 25234:
+				return "ei";
+			case 30311:
+				return "ae";
+			case 31580:
+				return "ei";
+			case 37182:
+				return "aei";
+			case 52229:
+				return "aei";
+			case 67648:
+				return "e";
+			case 24486:
+				return "e";
+			case 36432:
+				return "e";
+			case 15164:
+				return "a";
+			case 10791:
+				return "e";
+			case 57972:
+				return "e";
+			case 19321:
+				return "z";
+			case 25055:
+				return "l";
+			case 24267:
+				return "eio";
+			case 73183:
+				return "e";
+			case 50392:
+				return "ei";
+			case 36591:
+				return "ei";
+			case 59068:
+				return "e";
+			case 31017:
+				return "e";
+			case 58741:
+				return "e";
+			case 37055:
+				return "ei";
+			case 43478:
+				return "ei";
+			case 20495:
+				return "z";
+			case 26229:
+				return "l";
+			case 67744:
+				return "e";
+			case 50143:
+				return "e";
+			case 43223:
+				return "aei";
+			case 19262:
+				return "z";
+			case 24996:
+				return "l";
+			case 37143:
+				return "ao";
+			case 19836:
+				return "o";
+			case 30580:
+				return "ei";
+			case 30343:
+				return "e";
+			case 50255:
+				return "ae";
+			case 44481:
+				return "aei";
+			case 59339:
+				return "e";
+			case 20428:
+				return "o";
+			case 10853:
+				return "oy";
+			case 10884:
+				return "o";
+			case 37497:
+				return "e";
+			case 66228:
+				return "ei";
+			case 37091:
+				return "e";
+			case 44166:
+				return "e";
+			case 37490:
+				return "e";
+			case 44048:
+				return "e";
+			case 44567:
+				return "e";
+			case 37701:
+				return "ei";
+			case 15288:
+				return "eo";
+			case 15510:
+				return "o";
+			case 31214:
+				return "e";
+			case 59102:
+				return "i";
+			case 38607:
+				return "y";
+			case 43586:
+				return "e";
+			case 31067:
+				return "aei";
+			case 30817:
+				return "aei";
+			case 84181:
+				return "e";
+			case 51859:
+				return "e";
+			case 43658:
+				return "e";
+			case 30933:
+				return "ei";
+			case 37193:
+				return "ei";
+			case 31396:
+				return "e";
+			case 31296:
+				return "e";
+			case 51098:
+				return "e";
+			case 52099:
+				return "e";
+			case 31303:
+				return "ao";
+			case 52221:
+				return "aei";
+			case 51246:
+				return "e";
+			case 58499:
+				return "a";
+			default: return "";
+		}
+	}
+
+}
