@@ -20,4 +20,7 @@ use it, which defeats the purpose of this program.
 contents of this files are numbers, numbers, numbers which will mean nothing, if you do not know
 how to read them. More confusing for us Humans is that there is not a single file, but lot of
 them which stores this data.
+
   To read this data, this code provides another function too.
+  
+  Another benefit of this storage structure is, <em>it reduces space required to store those words!!</em>
