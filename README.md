@@ -24,3 +24,7 @@ them which stores this data.
   To read this data, this code provides another function too.
   
   Another benefit of this storage structure is, <em>it reduces space required to store those words!!</em>
+
+  Then, again, we need that small time for opening and closing files, which when used multiple times,
+is not so small at all. So... I converted this file structure into code. Note that this option is advisable
+only if you have put all the words (you may or may not use) of the language into this structure.
